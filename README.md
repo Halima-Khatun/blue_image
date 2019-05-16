@@ -1,2 +1,2 @@
 # blue_image
-html and css website
+ A website creating with html and css 
